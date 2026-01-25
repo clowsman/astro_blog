@@ -1,6 +1,6 @@
 ---
 title: n8n漏洞利用分析
-published: 2025-1-25
+published: 2026-01-25
 description: ''
 image: './cover.jpeg'
 tags: ['漏洞分析']
